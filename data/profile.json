@@ -10,27 +10,27 @@
     "hardSkills": [
       {
         "name": "Nodejs",
-        "logo": "./data/imgs/nodejs.png"
+        "logo": "/js-developer-portifolio/data/imgs/nodejs.png"
       },
       {
         "name": "Java",
-        "logo": "./data/imgs/java.png"
+        "logo": "/js-developer-portifolio/data/imgs/java.png"
       },
       {
         "name": "Angular",
-        "logo": "./data/imgs/angular.png"
+        "logo": "/js-developer-portifolio/data/imgs/angular.png"
       },
       {
         "name": "Git",
-        "logo": "./data/imgs/git.png"
+        "logo": "/js-developer-portifolio/data/imgs/git.png"
       },
       {
         "name": "MySQL",
-        "logo": "./data/imgs/mysql.png"
+        "logo": "/js-developer-portifolio/data/imgs/mysql.png"
       },
       {
         "name": "Postgresql",
-        "logo": "./data/imgs/postgresql.png"
+        "logo": "/js-developer-portifolio/data/imgs/postgresql.png"
       }
     ],
     "softSkills": [
